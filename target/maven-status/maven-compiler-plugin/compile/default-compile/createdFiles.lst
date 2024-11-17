@@ -1,0 +1,14 @@
+com\muhammaddaffa\rolleriteessentials\RolleriteEssentials.class
+com\muhammaddaffa\rolleriteessentials\utils\Placeholder.class
+com\muhammaddaffa\rolleriteessentials\commands\TpaAcceptCommand.class
+com\muhammaddaffa\rolleriteessentials\tpa\TpaRequest.class
+com\muhammaddaffa\rolleriteessentials\commands\OpenInvCommand.class
+com\muhammaddaffa\rolleriteessentials\listeners\GodListener.class
+com\muhammaddaffa\rolleriteessentials\commands\GamemodeCommand.class
+com\muhammaddaffa\rolleriteessentials\commands\TrashCommand.class
+com\muhammaddaffa\rolleriteessentials\utils\Common.class
+com\muhammaddaffa\rolleriteessentials\utils\Config.class
+com\muhammaddaffa\rolleriteessentials\commands\EnderChestCommand.class
+com\muhammaddaffa\rolleriteessentials\commands\FixCommand.class
+com\muhammaddaffa\rolleriteessentials\commands\TpaCommand.class
+com\muhammaddaffa\rolleriteessentials\commands\GodCommand.class

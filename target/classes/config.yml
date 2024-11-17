@@ -1,0 +1,14 @@
+
+messages:
+  no-permission: "&7[&6Rollerite&7] &cNo permission!"
+  target-not-found: "&7[&6Rollerite&7] &cThere is no player with that name!"
+  fix: "&7[&6Rollerite&7] &aYou have fixed the item in your hand."
+  god-on: "&7[&6Rollerite&7] &aGod toggled on."
+  god-off: "&7[&6Rollerite&7] &cGod toggled off"
+  invalid-mode: "&7[&6Rollerite&7] &cThere is no gamemode with that name."
+  set-gamemode: "&7[&6Rollerite&7] &aSet gamemode to &e{mode}"
+  tpa-sent: "&7[&6Rollerite&7] &aTeleport request sent to &e{player}"
+  tpa-receive: "&7[&6Rollerite&7] &aYou have received teleport request from {player}"
+  tpa-request-invalid: "&7[&6Rollerite&7] &cYou don't have any tpa requests or it has been invalidated"
+  tpa-accept: "&7[&6Rollerite&7] &aYou have accepted teleport requests from &e{player}"
+  tpa-accepted: "&7[&6Rollerite&7] &e{player} &ahas accepted your teleport requests"

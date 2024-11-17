@@ -1,0 +1,17 @@
+name: RolleriteEssentials
+version: '${project.version}'
+main: com.muhammaddaffa.rolleriteessentials.RolleriteEssentials
+api-version: '1.13'
+authors: [ aglerr ]
+website: https://muhammaddaffa.com
+
+commands:
+  enderchest:
+    aliases: [ec]
+  fix:
+  gamemode:
+  god:
+  openinv:
+  trash:
+  tpa:
+  tpaccept:
